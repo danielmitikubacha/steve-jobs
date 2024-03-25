@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite;
+}
+nav{
+    font-size: 40px;
+    text-align: center;
+    background-color: beige;
+}
+p{
+    font-size: 20px;
+}
+div{
+    height: 700px;
+    width: 100%;
+}
+img{
+height: 80%;
+width: 80%;
+margin: 20px;
+margin-left: 100px;
+}
+figcaption{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+ul{
+ font-size: 20px; 
+ line-height: 40px;
+ margin-left: 30%;
+ padding: 20px;
+}
+footer{
+    padding: 30%;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-style: italic;
+}
+h3{
+    text-align: center;
+}
+
